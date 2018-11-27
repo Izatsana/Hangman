@@ -1,4 +1,4 @@
 # Hangman
 A hangman game
 
-- solve a problem with limited attempts
+- solve the problem with limited attempts
